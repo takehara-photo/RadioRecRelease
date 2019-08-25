@@ -7,4 +7,5 @@ USB接続のワンセグチューナーを利用してFM放送を受信するソ
 詳細:https://takehara-photo.com/radiorec%ef%bc%88%ce%b1%e7%89%88%ef%bc%89/
 
 バーション情報
+
 0.1.0 :2019-08-25
