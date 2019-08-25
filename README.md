@@ -4,7 +4,7 @@ USB接続のワンセグチューナーを利用してFM放送を受信するソ
 
 本ソフトウェアは開発版（α版）であり，重大なバグがあったり，今後のアップデートの際に以前のデータが引き継げない等の不具合がある場合があります．
 
-詳細:https://takehara-photo.com/radiorec%ef%bc%88%ce%b1%e7%89%88%ef%bc%89/
+詳細:https://takehara-photo.com/radiorec/
 
 バーション情報
 
